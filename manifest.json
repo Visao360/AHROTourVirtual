@@ -1,4 +1,5 @@
 {
+ "theme_color": "#F1F2F3",
  "name": "AHRO Tour Virtual",
  "icons": [
   {
@@ -37,8 +38,7 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#F1F2F3",
- "theme_color": "#F1F2F3",
  "start_url": "index.htm?installed=true",
- "display": "fullscreen"
+ "display": "fullscreen",
+ "background_color": "#F1F2F3"
 }
