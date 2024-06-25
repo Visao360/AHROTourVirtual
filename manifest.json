@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "AHRO Tour Virtual",
- "display": "fullscreen",
- "theme_color": "#F1F2F3",
  "start_url": "index.htm?installed=true",
- "background_color": "#F1F2F3"
+ "background_color": "#F1F2F3",
+ "display": "fullscreen",
+ "name": "AHRO Tour Virtual",
+ "theme_color": "#F1F2F3"
 }
